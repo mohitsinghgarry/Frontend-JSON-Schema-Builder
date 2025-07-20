@@ -7,17 +7,13 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/mohitsinghgarry/YOUR_REPO_NAME?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github" alt="Stars">
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github" alt="Forks">
+  <img src="https://img.shields.io/github/license/mohitsinghgarry/Frontend-JSON-Schema-Builder?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/mohitsinghgarry/Frontend-JSON-Schema-Builder?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/forks/mohitsinghgarry/Frontend-JSON-Schema-Builder?style=for-the-badge&logo=github" alt="Forks">
 </p>
 
 <p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-live-demo">Live Demo</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-contributing">Contributing</a>
+  <a href="#-live-demo">Live Demo</a>
 </p>
 
 ---
@@ -78,11 +74,11 @@ Make sure you have Node.js and npm (or yarn/pnpm) installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/mohitsinghgarry/Frontend-JSON-Schema-Builder.git](https://github.com/mohitsinghgarry/Frontend-JSON-Schema-Builder.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd YOUR_REPO_NAME
+    cd Frontend-JSON-Schema-Builder
     ```
 3.  **Install dependencies:**
     ```sh
