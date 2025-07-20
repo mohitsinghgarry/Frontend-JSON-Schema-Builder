@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#-live-demo">Live Demo</a>
+  <a href="https://json-schema-builder-assignment.netlify.app/">Live Demo</a>
 </p>
 
 ---
