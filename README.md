@@ -18,13 +18,6 @@
 
 ---
 
-<div align="center">
-  <!-- IMPORTANT: Replace this with a GIF of your application in action! -->
-  <img src="https://placehold.co/800x450/1e1e2e/c8c8ff?text=App+Demo+GIF+Here" alt="Project Demo GIF" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
-
----
-
 ## ✨ Features
 
 * **Dynamic Form Builder**: Easily add, remove, and nest fields to structure your schema.
@@ -38,9 +31,7 @@
 
 ## 🚀 Live Demo
 
-> A live demo will be available soon. Stay tuned!
-
-<!-- [**Try it out here!**](YOUR_DEMO_LINK) -->
+[<!-- [**Try it out here!**](YOUR_DEMO_LINK) -->](https://github.com/user-attachments/assets/da3ce334-992c-46cf-80de-66c6c1a43df3)
 
 ---
 
@@ -74,7 +65,7 @@ Make sure you have Node.js and npm (or yarn/pnpm) installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/mohitsinghgarry/Frontend-JSON-Schema-Builder.git](https://github.com/mohitsinghgarry/Frontend-JSON-Schema-Builder.git)
+    git clone https://github.com/mohitsinghgarry/Frontend-JSON-Schema-Builder.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
